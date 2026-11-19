@@ -1,6 +1,8 @@
 # Ukrainian-Phonetic-Keyboard
 This keyboard places the Ukrainian Cyrillic Keys where their Latin counterparts would be on a standard QWERTY keyboard. Useful for the learners of Ukrainian who have better proficiency with Qwerty and want to keep most of their muscle memory when typing.
 
+The .zip files contain Microsoft Keyboard Layout Creator installation files and a properly formatted ASCII version of the layout. If you are using Linux, you'll figure out how to set all this up yourself. Good luck ;D 
+
 'Ukrainian Phonetic Keyboard' has Ukrainian, Belarusian, and Bulgarian alphabets; 
 'Multilingual Ukrainian Phonetic Keyboard Extended' has Ukrainian, Belarusian, Bulgarian, Serbian, Macedonian, and Mongolian alphabets.
 
