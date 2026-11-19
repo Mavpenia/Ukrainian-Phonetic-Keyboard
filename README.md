@@ -6,7 +6,7 @@ This keyboard places the Ukrainian Cyrillic Keys where their Latin counterparts 
 
 ASCII Version of the Multilingual Extended (the regular 'Ukrainian Phonetic Keyboard is identical just without the Multilingual letters) layout:
 
-Base layer:
+**Base layer:**
 
 ~ 1 2 3 4 5 6 7 8 9 0 - =
 
@@ -16,7 +16,7 @@ Base layer:
   
 ь з х ц в б н м , . 
 
-Shift layer:
+**Shift layer:**
 
 ₴ ! @ # $ % ^ & * ( ) _ +
 
@@ -26,7 +26,7 @@ Shift layer:
   
 Ь З Х Ц В Б Н М < > ?
 
-AltGr Layer:
+**AltGr Layer:**
 
 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 
@@ -37,7 +37,7 @@ AltGr Layer:
  ~ ћ ђ ч ~ ь њ ә ұ ө э
  
 
-Shift+AltGr layer:
+**Shift+AltGr layer:**
 
 ~ ~ ~ № ~ ~ ~ ~ ~ ~ ~ ~ ~
 
